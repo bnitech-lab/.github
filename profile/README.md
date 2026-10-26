@@ -29,7 +29,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.png">
-  <img src="assets/timeline-light.png" width="100%" alt="Ideas by the year they started. 2011 to 2017, games, one per language I learned: BLUE DICE GAME, Mukbo DB, Rolly Poly, Teris, Space Shooter, PackMan plus, Angry Pokemons, WarmyLand, 3D Maze, CrashTower. 2019 to 2021, web and backend: Nexon Dabang M, Docs from tests. 2026, AI tools: Team AI workflow, Persona debate lab, Vancouver room hunt and AI trend digest (all three can be tried in minutes), and AI news service (an idea).">
+  <img src="assets/timeline-light.png" width="100%" alt="Ideas by the year they started. 2011 to 2017, games, one per language I learned: BLUE DICE GAME, Mukbo DB, Rolly Poly, Teris, Space Shooter, PackMan plus, Angry Pokemons, WarmyLand, 3D Maze, CrashTower. 2019 to 2021, web and backend: Nexon Dabang M, Excel download module, Docs from tests. 2026, AI tools: Team AI workflow, Persona debate lab, Vancouver room hunt and AI trend digest (all three can be tried in minutes), and AI news service (an idea).">
 </picture>
 
 ### The games, 2011–2017
