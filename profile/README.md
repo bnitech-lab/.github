@@ -52,6 +52,6 @@
 | 2015 | **[WarmyLand](https://github.com/CienProject2015/ProjectOP)**<br>A first-person 3D exploration adventure on a penguin planet; I led the Unity development.<br><sub>Finished</sub> | Unity, C#, 3ds Max |
 | 2016 | **[3D Maze](https://github.com/bnitech-lab/maze-3d-2016)**<br>A 3D maze escape with three camera views, made by a team of three.<br><sub>Finished</sub> | C++, OpenGL |
 | 2017 | **[CrashTower](https://github.com/bnitech-lab/crash-tower-2017)**<br>A real-time card battle prototype for Android by a student team.<br><sub>Stopped mid-build</sub> | Java, Android |
-| 2026 | **[Vancouver Month](https://github.com/bnitech-lab/vancouver-month-2026)**<br>A turn-based month as a newcomer in Vancouver: pick a room by its total cost, then one action a day. It grew into a 3D town in the browser.<br><sub>In progress</sub> | Kotlin Multiplatform, terminal and browser |
+| 2026 | **[Vancouver Month](https://github.com/bnitech-lab/vancouver-month-2026)**<br>A turn-based month as a newcomer in Vancouver: pick a room by its total cost, then one action a day. It grew into a 3D town in the browser.<br><sub>In progress</sub> | Kotlin, JVM and JS |
 
 <sub>Teris lives in my first GitHub account and WarmyLand in the university game club's organization. The rest live here.</sub>
