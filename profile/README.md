@@ -38,19 +38,20 @@
   </tr>
 </table>
 
-### The games, 2011 to 2017
+### The games
 
-| Year | Game | What it is | Built with | Stage |
-|---|---|---|---|---|
-| 2011 | [BLUE DICE GAME](https://github.com/bnitech-lab/blue-dice-game-2011) | A two-player dice race on a 19-square board, my first university team project | Visual Basic 6 | Finished |
-| 2011 | [Mukbo DB](https://github.com/bnitech-lab/mukbo-db-2011) | A console maze game: steer DB around the map and eat every piece of bread | C++, Windows console | Stopped mid-build |
-| 2011 | [Rolly Poly](https://github.com/bnitech-lab/rolly-poly-2011) | A two-player property-trading board game by a team of three | VB.NET | Stopped mid-build |
-| 2011 | [Teris](https://github.com/bnitech/Teris_2011) | A console Tetris with hold, combos and a two-piece preview, ported to macOS in 2026 | C, Windows console, ncurses | Finished |
-| 2012 | [Space Shooter](https://github.com/bnitech-lab/space-shooter-2012) | A Galaga-style shooter on the plain Win32 API, one stage playable | C++, Win32 GDI | Stopped mid-build |
-| 2012 | [PackMan plus](https://github.com/bnitech-lab/packman-plus-2012) | Eat every coin while robots roam, with items and three difficulty levels | Java, Swing | Finished |
-| 2014 | [Angry Pokemons](https://github.com/bnitech-lab/angry-pokemons-2014) | An Android side-scrolling action game, an unofficial student fan game | Java, Android | Finished |
-| 2015 | [WarmyLand](https://github.com/CienProject2015/ProjectOP) | A first-person 3D exploration adventure on a penguin planet; I led the Unity development | Unity, C#, 3ds Max | Finished |
-| 2016 | [3D Maze](https://github.com/bnitech-lab/maze-3d-2016) | A 3D maze escape with three camera views, made by a team of three | C++, OpenGL | Finished |
-| 2017 | [CrashTower](https://github.com/bnitech-lab/crash-tower-2017) | A real-time card battle prototype for Android by a student team | Java, Android | Stopped mid-build |
+| Year | Game | Built with |
+|---|---|---|
+| 2011 | **[BLUE DICE GAME](https://github.com/bnitech-lab/blue-dice-game-2011)**<br>A two-player dice race on a 19-square board, my first university team project.<br><sub>Finished</sub> | Visual Basic 6 |
+| 2011 | **[Mukbo DB](https://github.com/bnitech-lab/mukbo-db-2011)**<br>A console maze game: steer DB around the map and eat every piece of bread.<br><sub>Stopped mid-build</sub> | C++, Windows console |
+| 2011 | **[Rolly Poly](https://github.com/bnitech-lab/rolly-poly-2011)**<br>A two-player property-trading board game by a team of three.<br><sub>Stopped mid-build</sub> | VB.NET |
+| 2011 | **[Teris](https://github.com/bnitech/Teris_2011)**<br>A console Tetris with hold, combos and a two-piece preview. A 2026 macOS port is kept private.<br><sub>Finished</sub> | C, Windows console |
+| 2012 | **[Space Shooter](https://github.com/bnitech-lab/space-shooter-2012)**<br>A Galaga-style shooter on the plain Win32 API, one stage playable.<br><sub>Stopped mid-build</sub> | C++, Win32 GDI |
+| 2012 | **[PackMan plus](https://github.com/bnitech-lab/packman-plus-2012)**<br>Eat every coin while robots roam, with items and three difficulty levels.<br><sub>Finished</sub> | Java, Swing |
+| 2014 | **[Angry Pokemons](https://github.com/bnitech-lab/angry-pokemons-2014)**<br>An Android side-scrolling action game, an unofficial student fan game.<br><sub>Finished</sub> | Java, Android |
+| 2015 | **[WarmyLand](https://github.com/CienProject2015/ProjectOP)**<br>A first-person 3D exploration adventure on a penguin planet; I led the Unity development.<br><sub>Finished</sub> | Unity, C#, 3ds Max |
+| 2016 | **[3D Maze](https://github.com/bnitech-lab/maze-3d-2016)**<br>A 3D maze escape with three camera views, made by a team of three.<br><sub>Finished</sub> | C++, OpenGL |
+| 2017 | **[CrashTower](https://github.com/bnitech-lab/crash-tower-2017)**<br>A real-time card battle prototype for Android by a student team.<br><sub>Stopped mid-build</sub> | Java, Android |
+| 2026 | **[Vancouver Month](https://github.com/bnitech-lab/vancouver-month-2026)**<br>A turn-based month as a newcomer in Vancouver: pick a room by its total cost, then one action a day. It grew into a 3D town in the browser.<br><sub>In progress</sub> | Kotlin Multiplatform, terminal and browser |
 
-<sub>Eight of these live in this organization. Teris lives in my first GitHub account, and WarmyLand in the university game club's organization.</sub>
+<sub>Teris lives in my first GitHub account and WarmyLand in the university game club's organization. The rest live here.</sub>
